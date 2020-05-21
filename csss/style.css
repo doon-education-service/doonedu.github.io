@@ -1,0 +1,20 @@
+.newsletter{
+    width: 100%;
+    height: auto;
+    margin: 10px 0px 0px 0px;
+    padding: 20px 0px;
+  }
+  
+  .news-input{
+    border-radius: 100px 0px 0px 100px!important;
+    min-width: 150px;
+    min-height: 45px;
+  }
+  
+  .input-group-text{
+    color: #fff!important;
+    background: #5bc0de!important;
+    border-radius: 0 100px 100px 0!important;
+    min-width: 160px;
+    min-height: 40px;
+  }
